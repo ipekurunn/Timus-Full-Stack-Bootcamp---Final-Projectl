@@ -1,5 +1,4 @@
 # Timus-Full-Stack-Bootcamp - Final-Project
-
 This project is a dashboard with a table-intensive user login screen showing energy usage.
 
 Follow the steps below to start the project in your local environment.
