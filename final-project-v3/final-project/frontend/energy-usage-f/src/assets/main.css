@@ -1,0 +1,10 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    /* Diğer stil tanımlamaları */
+}
+#app > .router-view {
+    padding-top: 60px; /* Navbar'ın yüksekliğine bağlı olarak ayarlayın */
+  }
