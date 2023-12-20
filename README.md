@@ -1,5 +1,4 @@
 # Timus-Full-Stack-Bootcamp - Final-Project
-# Pre-accounting Application
 
 This project is a dashboard with a table-intensive user login screen showing energy usage.
 
